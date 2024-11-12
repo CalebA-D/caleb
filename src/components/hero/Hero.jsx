@@ -39,7 +39,7 @@ const Hero = () => {
               className="img-fluid main-img-mobile d-sm-block d-lg-none"
               alt="hero man"
             />
-            <h1 className="text-uppercase grunt grotesk-font">
+            <h1 className="text-uppercase montserrat-font">
               I'm {heroContent.heroTitleName}.
               <span>{heroContent.heroDesignation}</span>
             </h1>
