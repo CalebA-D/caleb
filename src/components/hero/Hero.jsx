@@ -9,8 +9,8 @@ const heroContent = {
   heroImage: heroImg,
   heroMobileImage: heroImgMobile,
   heroTitleName: "Caleb Agyemang-Duah",
-  heroDesignation: "Entrepreneur",
-  heroDescriptions: `Caleb is a Ghanaian based technophile, mentor, public speaker and social innovative changemaker specialized in
+  heroDesignation: "DX lead",
+  heroDescriptions: `Caleb is a Ghanaian  based technophile, mentor, public speaker and social innovative changemaker specialized in
   data science, analysis (analytics) and project management. I am passionate about improving the lives of people, businesses, and many more through software engineering, social media marketing, as well as speaking about tech and career path.`,
   heroBtn: "more about me...",
 };
