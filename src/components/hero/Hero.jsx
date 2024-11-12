@@ -9,9 +9,8 @@ const heroContent = {
   heroImage: heroImg,
   heroMobileImage: heroImgMobile,
   heroTitleName: "Caleb Agyemang-Duah",
-  heroDesignation: "Digital Transformation Enthusiast",
-  heroDescriptions: `Caleb is based technophile, mentor, public speaker and social innovative changemaker specialized in
-  data science, analysis (analytics) and project management. I am passionate about improving the lives of people, businesses, and many more through software engineering, social media marketing, as well as speaking about tech and career path.`,
+  heroDesignation: "Digital Transformation Lead",
+  heroDescriptions: `I help transform businesses, brands and spaces in various ways, from creative design, customer experience, to data science, analytics ai and change management. I am passionate about improving the lives of people, businesses, and many more through software engineering, social media marketing, as well as speaking about tech and career path.`,
   heroBtn: "more about me...",
 };
 
