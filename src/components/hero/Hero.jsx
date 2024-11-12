@@ -9,7 +9,7 @@ const heroContent = {
   heroImage: heroImg,
   heroMobileImage: heroImgMobile,
   heroTitleName: "Caleb Agyemang-Duah",
-  heroDesignation: "DX lead",
+  heroDesignation: "Digital Transformation Enthusiast",
   heroDescriptions: `Caleb is based technophile, mentor, public speaker and social innovative changemaker specialized in
   data science, analysis (analytics) and project management. I am passionate about improving the lives of people, businesses, and many more through software engineering, social media marketing, as well as speaking about tech and career path.`,
   heroBtn: "more about me...",
@@ -39,7 +39,7 @@ const Hero = () => {
               className="img-fluid main-img-mobile d-sm-block d-lg-none"
               alt="hero man"
             />
-            <h1 className="text-uppercase arial-font">
+            <h1 className="text-uppercase poppins-font">
               I'm {heroContent.heroTitleName}.
               <span>{heroContent.heroDesignation}</span>
             </h1>
